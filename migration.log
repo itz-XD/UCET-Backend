@@ -1,0 +1,5 @@
+[38;5;142m[dotenvx@1.49.0] injecting env (13) from .env.local[39m
+No config path provided, using default 'drizzle.config.js'
+Reading config file 'D:\PROG\CollegeProject\Final\ucetBackend\drizzle.config.js'
+Using 'pg' driver for database querying
+[Γú╖] applying migrations...[2K[1G[Γ£ô] migrations applied successfully!
